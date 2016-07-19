@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IdeaSpotter</string>
+    <string name="idea_title_hint">Enter a title for the Idea.</string>
+</resources>
